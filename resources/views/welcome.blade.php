@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Hello World!</h1>
+<<<<<<< HEAD
     <h3>Selamat datang di aplikasi kami!</h3>
+=======
+    <h2>Selamat datang di aplikasi kami!</h2>
+>>>>>>> 6c73d41ea535d5b562d9ccedbd1f8f5d59bf84a8
 </body>
 </html>
