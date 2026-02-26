@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>Selamat datang di aplikasi kami!</p>
+    <h2>Selamat datang di aplikasi kami!</h2>
 </body>
 </html>
